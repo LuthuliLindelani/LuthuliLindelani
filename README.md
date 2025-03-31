@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @LuthuliLindelani
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning BA
-- 💞️ I’m looking to collaborate on Java, Python and SQL
+- 👀 I’m interested in IT Business Analytics and Fullstack development.
+- 🌱 I’m currently learning Software development. 
+- 💞️ I’m looking to collaborate on Spring Boot, Angular, React and SQL
 - 📫 How to reach me at lindelani.luthuli05@gmail.com
-- 😄 Pronouns: none
+- 😄 Pronouns: none.
 - ⚡ Fun fact: Broccoli is not natural.
 
 <!---
